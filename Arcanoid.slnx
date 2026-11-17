@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Arcanoid/Arcanoid.vcxproj" Id="4d757101-e037-4a0c-bc41-af64cdcd100b" />
-</Solution>
